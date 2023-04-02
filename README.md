@@ -2,8 +2,8 @@
 <h3 align="center">I make AIs for fun and write about it on https://medium.com/@eeman.majumder</h3>
 <details><summary>For More Info About Me Click Me</summary>
 
-  <h1 align="center">Hey There 👋🏼</h1>
-  <h2 align="center">Happy to see you here 😁</h2>
+ <h1 align="center">Hey There 👋🏼</h1>
+ <h2 align="center">Happy to see you here 😁</h2>
 ___
 
 
@@ -498,6 +498,6 @@ Linkedin - https://www.linkedin.com/in/eeman-majumder-2184331a2/<br>
 Twitter - https://twitter.com/EemanMajumder
 ___
 
-## <p style="text-align: center;">Thanks For Visiting 😁
+<h2 align="center">Thanks For Visiting 😁</h2>
 </details>
 
