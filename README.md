@@ -55,31 +55,31 @@ ___
 
 **<u><h3>Technical  🛠️</h3></u>**
 
->**Programming Languages**<EM>
-><table><b><tr><th>Languages</th><th>Efficency</th></tr></b>
-><tr><td>Python</td><td>Advanced</td></tr>
-><tr><td>Rust</td><td>Advanced</td></tr>
-><tr><td>C++</td><td>Intermediate</td></tr>
-><tr><td>C</td><td>Imtermedate</td></tr>
-><tr><td>Java</td><td>Basic</td></tr>
-><tr><td>R</td><td>Basic</td></tr>
-></table></EM>
+**Programming Languages**<EM>
+<table><b><tr><th>Languages</th><th>Efficency</th></tr></b>
+<tr><td>Python</td><td>Advanced</td></tr>
+<tr><td>Rust</td><td>Advanced</td></tr>
+<tr><td>C++</td><td>Intermediate</td></tr>
+<tr><td>C</td><td>Imtermedate</td></tr>
+<tr><td>Java</td><td>Basic</td></tr>
+<tr><td>R</td><td>Basic</td></tr>
+</table></EM>
 
->**Machine Learning and AI**<EM>
-><table><b><tr><th>Topics</th><th>Proficiency Level</th></tr></b>
-><tr><td>Machine Learning</td><td>Advanced</td></tr>
-><tr><td>Deep Learning</td><td>Advanced</td></tr>
-><tr><td>Natural Language Processing</td><td>Advanced</td></tr>
-><tr><td>Computer Vision</td><td>Advanced</td></tr>
-><tr><td>Data Science</td><td>Advanced</td></tr>
-><tr><td>Big Data</td><td>Advanced</td></tr>
-><tr><td>Reinforcement Learning</td><td>Advanced</td></tr>
-><tr><td>Cybersecurity</td><td>Intermediate</td></tr>
-><tr><td>Cryptography</td><td>Intermediate</td></tr>
-><tr><td>Data Engineering</td><td>Intermediate</td></tr>
-><tr><td>Blockchain</td><td>Basic</td></tr>
-><tr><td>Web Development</td><td>Basic</td></tr>
-></table></EM>
+**Machine Learning and AI**<EM>
+<table><b><tr><th>Topics</th><th>Proficiency Level</th></tr></b>
+<tr><td>Machine Learning</td><td>Advanced</td></tr>
+<tr><td>Deep Learning</td><td>Advanced</td></tr>
+<tr><td>Natural Language Processing</td><td>Advanced</td></tr>
+<tr><td>Computer Vision</td><td>Advanced</td></tr>
+<tr><td>Data Science</td><td>Advanced</td></tr>
+<tr><td>Big Data</td><td>Advanced</td></tr>
+<tr><td>Reinforcement Learning</td><td>Advanced</td></tr>
+<tr><td>Cybersecurity</td><td>Intermediate</td></tr>
+<tr><td>Cryptography</td><td>Intermediate</td></tr>
+<tr><td>Data Engineering</td><td>Intermediate</td></tr>
+<tr><td>Blockchain</td><td>Basic</td></tr>
+<tr><td>Web Development</td><td>Basic</td></tr>
+</table></EM>
 
 <u><h3>**Soft Skills 💬**</h3></u>
 
