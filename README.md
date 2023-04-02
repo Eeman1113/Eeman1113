@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Eeman Majumder</h1>
 <h3 align="center">I make AIs for fun and write about it on https://medium.com/@eeman.majumder</h3>
-<details><summary><h3 align="center">For More Info About Me Click Me</h3></summary>
+<details><h3 align="center"><summary>For More Info About Me Click Me</summary></h3>
 
-# <p style="text-align: center;">Hey There 👋🏼
-## <p style="text-align: center;">Happy to see you here 😁
+  <h1 align="center">Hey There 👋🏼</h1>
+  <h2 align="center">Happy to see you here 😁</h2>
 ___
 
 
