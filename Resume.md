@@ -1,7 +1,5 @@
-
-# <p style="text-align: center;">Hey There 👋🏼</p>
-## <p style="text-align: center;">Happy to see you here 😁</p>
-___
+ <h1 align="center">Hey There 👋🏼</h1>
+ <h2 align="center">Happy to see you here 😁</h2>
 
 
 Welcome to my little corner of the internet! **I'm Eeman Majumder**, a self-proclaimed average nerd with a passion for Artificial Intelligence and Machine Learning. I'm currently pursuing my B.Tech degree in Computer Science with a specialization in AIML at VIT Bhopal, India.
@@ -24,27 +22,27 @@ B.Tech in Computer Science with specialisation In Artificial Intelligence and Ma
 
 **Grades:** 
 
->**CBSE Boards Class 10**<EM>
->
->
-><table><b><tr><th>Subject</th><th>Grades</th></tr></b>
-><tr><td>English Comm.</td><td> A1</td></tr>
-><tr><td>Hindi</td><td>C2</td></tr>
-><tr><td>Maths</td><td>C1</td></tr>
-><tr><td>Science</td><td>A2</td></tr>
-><tr><td>SST</td><td>B1</td></tr>
-><tr><td>Computer Science (IT)</td><td>AI</td></tr>
-></table></EM>
+**CBSE Boards Class 10**<EM>
 
->**CBSE Boards Class 12**<EM>
-><table><b><tr><th>Subject</th><th>Marks</th></tr></b>
-><tr><td>English Core</td><td> 78</td></tr>
-><tr><td>Maths</td><td>47</td></tr>
-><tr><td>Physics</td><td>73</td></tr>
-><tr><td>Chemistry</td><td>75</td></tr>
-><tr><td>Computer Science</td><td>80</td></tr>
-><tr><td>Physical Education</td><td>84</td></tr>
-></table></EM>
+
+<table><b><tr><th>Subject</th><th>Grades</th></tr></b>
+<tr><td>English Comm.</td><td> A1</td></tr>
+<tr><td>Hindi</td><td>C2</td></tr>
+<tr><td>Maths</td><td>C1</td></tr>
+<tr><td>Science</td><td>A2</td></tr>
+<tr><td>SST</td><td>B1</td></tr>
+<tr><td>Computer Science (IT)</td><td>AI</td></tr>
+</table></EM>
+
+**CBSE Boards Class 12**<EM>
+<table><b><tr><th>Subject</th><th>Marks</th></tr></b>
+<tr><td>English Core</td><td> 78</td></tr>
+<tr><td>Maths</td><td>47</td></tr>
+<tr><td>Physics</td><td>73</td></tr>
+<tr><td>Chemistry</td><td>75</td></tr>
+<tr><td>Computer Science</td><td>80</td></tr>
+<tr><td>Physical Education</td><td>84</td></tr>
+</table></EM>
 
 ___
 
@@ -53,31 +51,31 @@ ___
 
 **<u><h3>Technical  🛠️</h3></u>**
 
->**Programming Languages**<EM>
-><table><b><tr><th>Languages</th><th>Efficency</th></tr></b>
-><tr><td>Python</td><td>Advanced</td></tr>
-><tr><td>Rust</td><td>Advanced</td></tr>
-><tr><td>C++</td><td>Intermediate</td></tr>
-><tr><td>C</td><td>Imtermedate</td></tr>
-><tr><td>Java</td><td>Basic</td></tr>
-><tr><td>R</td><td>Basic</td></tr>
-></table></EM>
+**Programming Languages**<EM>
+<table><b><tr><th>Languages</th><th>Efficency</th></tr></b>
+<tr><td>Python</td><td>Advanced</td></tr>
+<tr><td>Rust</td><td>Advanced</td></tr>
+<tr><td>C++</td><td>Intermediate</td></tr>
+<tr><td>C</td><td>Imtermedate</td></tr>
+<tr><td>Java</td><td>Basic</td></tr>
+<tr><td>R</td><td>Basic</td></tr>
+</table></EM>
 
->**Machine Learning and AI**<EM>
-><table><b><tr><th>Topics</th><th>Proficiency Level</th></tr></b>
-><tr><td>Machine Learning</td><td>Advanced</td></tr>
-><tr><td>Deep Learning</td><td>Advanced</td></tr>
-><tr><td>Natural Language Processing</td><td>Advanced</td></tr>
-><tr><td>Computer Vision</td><td>Advanced</td></tr>
-><tr><td>Data Science</td><td>Advanced</td></tr>
-><tr><td>Big Data</td><td>Advanced</td></tr>
-><tr><td>Reinforcement Learning</td><td>Advanced</td></tr>
-><tr><td>Cybersecurity</td><td>Intermediate</td></tr>
-><tr><td>Cryptography</td><td>Intermediate</td></tr>
-><tr><td>Data Engineering</td><td>Intermediate</td></tr>
-><tr><td>Blockchain</td><td>Basic</td></tr>
-><tr><td>Web Development</td><td>Basic</td></tr>
-></table></EM>
+**Machine Learning and AI**<EM>
+<table><b><tr><th>Topics</th><th>Proficiency Level</th></tr></b>
+<tr><td>Machine Learning</td><td>Advanced</td></tr>
+<tr><td>Deep Learning</td><td>Advanced</td></tr>
+<tr><td>Natural Language Processing</td><td>Advanced</td></tr>
+<tr><td>Computer Vision</td><td>Advanced</td></tr>
+<tr><td>Data Science</td><td>Advanced</td></tr>
+<tr><td>Big Data</td><td>Advanced</td></tr>
+<tr><td>Reinforcement Learning</td><td>Advanced</td></tr>
+<tr><td>Cybersecurity</td><td>Intermediate</td></tr>
+<tr><td>Cryptography</td><td>Intermediate</td></tr>
+<tr><td>Data Engineering</td><td>Intermediate</td></tr>
+<tr><td>Blockchain</td><td>Basic</td></tr>
+<tr><td>Web Development</td><td>Basic</td></tr>
+</table></EM>
 
 <u><h3>**Soft Skills 💬**</h3></u>
 
@@ -495,4 +493,4 @@ Linkedin - https://www.linkedin.com/in/eeman-majumder-2184331a2/<br>
 Twitter - https://twitter.com/EemanMajumder
 ___
 
-  ## <p style="text-align: center;">Thanks For Visiting 😁</p>
+<h2 align="center">Thanks For Visiting 😁</h2>
