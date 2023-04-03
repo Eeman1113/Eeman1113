@@ -1,5 +1,5 @@
 import streamlit as st
-st.markdown(""" <h1 align="center">Hey There 👋🏼</h1>
+st.write(""" <h1 align="center">Hey There 👋🏼</h1>
 
 Welcome to my little corner of the internet! **I'm Eeman Majumder**, a self-proclaimed average nerd with a passion for Artificial Intelligence and Machine Learning. I'm currently pursuing my B.Tech degree in Computer Science with a specialization in AIML at VIT Bhopal, India.
 
