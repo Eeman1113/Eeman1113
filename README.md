@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eeman Majumder</h1>
 <h3 align="center">I make AIs for fun and write about it on https://medium.com/@eeman.majumder</h3>
+
+
+<p align='center'><img src='https://raw.githubusercontent.com/eeman1113/eeman1113/output/github-contribution-grid-snake.svg'></p>
 <details><summary>For More Info About Me Click Me</summary>
 
  <h1 align="center">Hey There 👋🏼</h1>
