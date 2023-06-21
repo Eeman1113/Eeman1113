@@ -16,8 +16,9 @@ I'm known for making some weird and interesting AI projects that have left my fr
 Now, let me tell you a bit about myself in a more down-to-earth way.
 
 ___
-
-**Education 📚**
+<details><summary>
+<h2>Education 📚 (Optional)</h2></summary>
+</summary>
 ---------------
 
 **<u><h3>VIT Bhopal, India</h3></u>**
@@ -49,7 +50,7 @@ B.Tech in Computer Science with specialisation In Artificial Intelligence and Ma
 <tr><td>Chemistry</td><td>75</td></tr>
 <tr><td>Computer Science</td><td>80</td></tr>
 <tr><td>Physical Education</td><td>84</td></tr>
-</table></EM>
+</table></EM></details>
 
 ___
 
