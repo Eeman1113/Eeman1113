@@ -8,41 +8,6 @@ Now, let me tell you a bit about myself in a more down-to-earth way.
 
 ___
 
-**Education 📚**
----------------
-
-**<u><h3>VIT Bhopal, India</h3></u>**
-B.Tech in Computer Science with specialisation In Artificial Intelligence and Machine Learning
-
-**Grades** -  Work In Progress
-
-**<u><h3>St.Arnold's School, Rourkela, Odisa, India</h3></u>**
-
-**Grades:** 
-
-**CBSE Boards Class 10**<EM>
-
-
-<table><b><tr><th>Subject</th><th>Grades</th></tr></b>
-<tr><td>English Comm.</td><td> A1</td></tr>
-<tr><td>Hindi</td><td>C2</td></tr>
-<tr><td>Maths</td><td>C1</td></tr>
-<tr><td>Science</td><td>A2</td></tr>
-<tr><td>SST</td><td>B1</td></tr>
-<tr><td>Computer Science (IT)</td><td>AI</td></tr>
-</table></EM>
-
-**CBSE Boards Class 12**<EM>
-<table><b><tr><th>Subject</th><th>Marks</th></tr></b>
-<tr><td>English Core</td><td> 78</td></tr>
-<tr><td>Maths</td><td>47</td></tr>
-<tr><td>Physics</td><td>73</td></tr>
-<tr><td>Chemistry</td><td>75</td></tr>
-<tr><td>Computer Science</td><td>80</td></tr>
-<tr><td>Physical Education</td><td>84</td></tr>
-</table></EM>
-
-___
 
 **Skills 🤖**
 ---------
