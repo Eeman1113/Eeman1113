@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eeman Majumder</h1>
 <h3 align="center">I make AIs for fun and write about it on https://medium.com/@eeman.majumder</h3>
-<img width="635" alt="Screenshot 2023-11-26 at 12 10 19 AM" src="https://github.com/Eeman1113/Eeman1113/assets/54275491/83df2333-7685-45a1-83a1-dfb5a73abb73">
+<!-- <img width="635" alt="Screenshot 2023-11-26 at 12 10 19 AM" src="https://github.com/Eeman1113/Eeman1113/assets/54275491/83df2333-7685-45a1-83a1-dfb5a73abb73"> -->
 
 
 
