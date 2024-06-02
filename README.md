@@ -43,8 +43,8 @@ Oh, and I've done well in competitive coding too (Google Code Jam, Kickstart, Ha
 If you want to chat about AI, weird projects, or just life in general, hit me up!
 
 Email (Official): eeman.majumder.offical@gmail.com
-Email (Personal): eeman.majumder@gmail.com
-LinkedIn: [https://www.linkedin.com/in/eeman-majumder-2184331a2/](https://www.linkedin.com/in/eeman-majumder-2184331a2/)
-Twitter: [https://twitter.com/EemanMajumder](https://twitter.com/EemanMajumder)
+Email (Personal): eeman.majumder@gmail.com<br>
+LinkedIn: [https://www.linkedin.com/in/eeman-majumder-2184331a2/](https://www.linkedin.com/in/eeman-majumder-2184331a2/)<br>
+Twitter: [https://twitter.com/EemanMajumder](https://twitter.com/EemanMajumder)<br>
 
 Thanks for stopping by! 😁
