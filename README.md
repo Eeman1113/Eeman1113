@@ -1,6 +1,6 @@
 # Yo! 👋 I'm Eeman Majumder
 
-## The Average Nerd Who Makes Weird AI Projects
+## I Make AIs For Fun. 
 
 ### [Check out my weird AI musings on Medium](https://medium.com/@eeman.majumder)
 
