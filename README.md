@@ -2,7 +2,7 @@
 
 ## I Make AIs For Fun. 
 
-### [Check out my weird AI musings on Medium](https://medium.com/@eeman.majumder)
+### [Check out my weird AI musings on Medium](https://eeman1113.github.io/)
 
 I'm just your average nerd with a passion for AI and Machine Learning. Currently pursuing my B.Tech in Computer Science with a specialization in AIML at VIT Bhopal, India. 
 
