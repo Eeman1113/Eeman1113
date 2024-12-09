@@ -9,7 +9,7 @@ I'm just your average nerd with a passion for AI and Machine Learning. Currently
 My friends and family are used to me coming up with bizarre AI projects that leave them scratching their heads. But hey, that's what makes life fun, right? 😉
 
 ### Skills? I Got 'Em! 🤖
-**Top 99.9% In Leetcode**
+**Top 0.1% In Leetcode**
 
 **Tech Skills:**
 - Programming Languages: Python (Advanced), Rust (Advanced), C++ (Intermediate), C (Intermediate), Java (Basic), R (Basic)
