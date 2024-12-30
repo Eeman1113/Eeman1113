@@ -10,7 +10,9 @@ My friends and family are used to me coming up with bizarre AI projects that lea
 
 ### Skills? I Got 'Em! 🤖
 **Top 0.1% In Leetcode**
+
 ![LeetCode Stats](https://leetcard.jacoblin.cool/eeman_majumder?theme=dark&font=Copse)
+
 **Tech Skills:**
 - Programming Languages: Python (Advanced), Rust (Advanced), C++ (Intermediate), C (Intermediate), Java (Basic), R (Basic)
 - AI/ML: Machine Learning (Advanced), Deep Learning (Advanced), NLP (Advanced), Computer Vision (Advanced), Data Science (Advanced), Big Data (Advanced), Reinforcement Learning (Advanced), Cybersecurity (Intermediate), Cryptography (Intermediate), Data Engineering (Intermediate), Blockchain (Basic), Web Dev (Basic)
