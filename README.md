@@ -1,5 +1,5 @@
 # Yo! 👋 I'm Eeman Majumder
-[![wakatime](https://wakatime.com/badge/user/8a36fe61-0e5d-4a3d-a554-d460dfdd3cd3.svg)](https://wakatime.com/@8a36fe61-0e5d-4a3d-a554-d460dfdd3cd3)
+
 ## I Make AIs For Fun. 
 
 ### [Check out my weird AI musings on Medium](https://eeman1113.github.io/)
