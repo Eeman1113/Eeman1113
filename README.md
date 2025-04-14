@@ -2,6 +2,8 @@
 Yup I just code a little: [![wakatime](https://wakatime.com/badge/user/8a36fe61-0e5d-4a3d-a554-d460dfdd3cd3.svg)](https://wakatime.com/@8a36fe61-0e5d-4a3d-a554-d460dfdd3cd3)
 ## I Make AIs For Fun. 
 
+<figure><embed src="https://wakatime.com/share/@Eemansleepdeprived/177d8263-e146-45a8-953b-87a48c1d0028.svg"></embed></figure>
+
 ### [Check out my weird AI musings on Medium](https://eeman1113.github.io/)
 
 I'm just your average nerd with a passion for AI and Machine Learning. Currently pursuing my B.Tech in Computer Science with a specialization in AIML at VIT Bhopal, India. 
