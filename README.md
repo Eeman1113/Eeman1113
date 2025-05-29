@@ -6,7 +6,7 @@ Yup I just code a little: [![wakatime](https://wakatime.com/badge/user/8a36fe61-
 
 ### [Check out my weird AI musings on Medium](https://eeman1113.github.io/)
 
-I'm just your average nerd with a passion for AI and Machine Learning. Currently pursuing my B.Tech in Computer Science with a specialization in AIML at VIT Bhopal, India. 
+I'm just your average nerd with a passion for AI and Machine Learning. 
 
 My friends and family are used to me coming up with bizarre AI projects that leave them scratching their heads. But hey, that's what makes life fun, right? 😉
 
